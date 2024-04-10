@@ -1,4 +1,6 @@
-## Hi there 👋
+## KWU Application Programming Project Repo
+### Mafia Game 🕵🏻‍♀️
+
 
 <!--
 
