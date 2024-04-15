@@ -1,12 +1,14 @@
 # KWU Application Programming Project Repo
 
-# Project info.
+## 프로젝트 명
 
-## Midnight Mafia🕵🏻 - 마피아 게임
-여러 유저들이 통신하여 ‘마피아 게임’을 할 수 있는 응용 소프트웨어를 개발합니다.
-기본적은 규칙은 기존 마피아 게임의 규칙을 따르며 게임에 더욱 몰두할 수 있는 UI를 제공합니다.
+**Midnight Mafia - 마피아 게임**
 
-# Developers
+## 프로젝트 주제
+
+여러 유저들이 통신하여 ‘마피아 게임’을 할 수 있는 응용 소프트웨어를 개발합니다.  기본적은 규칙은 기존 마피아 게임의 규칙을 따르며 게임에 더욱 몰두할 수 있는 UI를 제공합니다.
+
+## Developers
 
 <table>
     <thead>
@@ -32,6 +34,9 @@
         </tr>
     </tbody>
 </table>
+
+
+
 
 
 
